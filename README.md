@@ -1,6 +1,6 @@
 <div align="center">
 
-![Camila A. Preciado Q.](assets/camila.jpg)
+![Camila A. Preciado Q.](assets/camila.jpeg)
 
 # Camila A. Preciado Q.
 
@@ -8,8 +8,7 @@
 📍 Tumaco, Colombia | Abril 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/capreciadoq2021-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:capreciadoq2021@gmail.com)
 
 </div>
 
@@ -17,43 +16,69 @@
 
 ### Sobre mí
 
-Hola! Soy Camila Andrea Preciado, apasionada por el desarrollo de software y la tecnología. Actualmente estoy aprendiendo y creando proyectos para fortalecer mis habilidades como desarrolladora.
+Hola! Soy Camila Preciado, apasionada por el desarrollo de software, la inteligencia artificial y la gestión de sistemas. 
 
-- Buscando oportunidades como **desarrolladora junior** o **prácticas**
-- Aprendiendo actualmente: **Git & GitHub**, Python, HTML/CSS, JavaScript
-- Me gusta crear soluciones simples y bonitas
+- Aprendiendo constantemente nuevas tecnologías
+- Me encanta crear soluciones prácticas y bien documentadas
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### En lo que estoy trabajando
+
+- **Auditoría de red Wi-Fi usando COBIT**
+- **Sistema de gestión de préstamos (SGPERT)**
+- **Sistemas distribuidos con máquinas virtuales**
+- **Clasificador de lugares de la Universidad de Nariño** usando Redes Neuronales Convolucionales y Transferencia de Aprendizaje
+
+---
+
+### Tecnologías y Herramientas
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-4285F4?style=for-the-badge&logo=gradio&logoColor=white)
 
 </div>
 
 ---
 
+### Educación
+
+- **Ingeniería de Sistemas**  
+  Universidad de Nariño  
+  *Actualidad*
+
+---
+
+### Idiomas
+
+- **Español** — Nativo  
+
+---
+
 ### 📂 Proyectos Destacados
 
-- **[test-gh](https://github.com/capreciadoq2021-crypto/test-gh)** - Mi primer repositorio de prueba y portafolio en GitHub
-- *(Pronto agregaré más proyectos aquí)*
+- **[test-gh](https://github.com/capreciadoq2021-crypto/test-gh)** — Portafolio personal y repositorio de prueba
+- **Clasificador de lugares Universidad de Nariño** (en desarrollo)
+- **SGPERT** — Sistema de Gestión de Préstamos (en desarrollo)
 
 ---
 
-### 📫 Contáctame
+### Contacto
 
-- **Email:** tuemail@gmail.com
+- **Email:** capreciadoq2021@gmail.com  
 - **GitHub:** [@capreciadoq2021-crypto](https://github.com/capreciadoq2021-crypto)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil)
-
----
 
 <div align="center">
-  <i>¡Gracias por visitar mi perfil!</i> ✨
+  Gracias por visitar mi perfil
 </div>
