@@ -1,6 +1,6 @@
 <div align="center">
 
-![Camila A. Preciado Q.](https://github.com/capreciadoq2021-crypto/test-gh/raw/main/assets/camila.jpeg)
+![Camila A. Preciado Q.](assets/camila.jpeg)
 
 # Camila A. Preciado Q.
 
