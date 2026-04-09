@@ -1,6 +1,6 @@
 <div align="center">
 
-![image alt](https://github.com/capreciadoq2021-crypto/test-gh/blob/ad10655627ff591f55f50277a21e845a0bb59080/camilafp.png)
+![image alt](https://github.com/capreciadoq2021-crypto/test-gh/blob/2ae336e94b9ee2dd0a9370eede14a7952e41cc49/camilafp.png)
 
 # Camila A. Preciado Q.
 
